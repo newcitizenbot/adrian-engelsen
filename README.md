@@ -8,8 +8,7 @@
 
 ##  Site en ligne
 - **Portfolio** : https://newcitizenbot.github.io/adrian-engelsen-portfolio/
-- **CV** : https://newcitizenbot.github.io/adrian-engelsen-portfolio/cv.html
-- **Galerie** : https://newcitizenbot.github.io/adrian-engelsen-portfolio/extra.html
+
 
 ##  Technologies 
 - HTML5, CSS3, JavaScript (ES6+)
