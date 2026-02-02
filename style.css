@@ -1,0 +1,8 @@
+.background-fixed {
+	
+    background-image: url("images/adri.JPG");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
